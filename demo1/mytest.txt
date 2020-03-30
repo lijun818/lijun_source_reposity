@@ -1,1 +1,1 @@
-git仓库用sroucetree来简化操作 第一天
+使用sourcetree工具来简化git本地仓库资源推送到远程仓库github上的测试
